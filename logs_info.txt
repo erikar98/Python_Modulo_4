@@ -1,0 +1,13 @@
+Intento de registro - Nombre: cristian, Edad: 15, Fecha: 2026-06-13 12:42:44.341515, Fecha: 2026-06-13 12:42:44.341515
+Registro exitoso - Nombre: cristian, Edad: 15, Fecha: 2026-06-13 12:42:44.341515, Fecha: 2026-06-13 12:42:44.341515
+Usuarios mostrados exitosamente, Fecha: 2026-06-13 12:42:44.341515, Fecha: 2026-06-13 12:42:44.341515
+Busqueda de usuario 'paola' realizada, Resultado: No encontrado, Fecha: 2026-06-13 12:42:44.341515, Fecha: 2026-06-13 12:42:44.341515
+Usuarios mostrados exitosamente, Fecha: 2026-06-13 12:42:44.341515, Fecha: 2026-06-13 12:42:44.341515
+Usuarios mostrados exitosamente, Fecha: 2026-06-13 12:47:07.643877, Fecha: 2026-06-13 12:47:07.643877
+Intento de registro - Nombre: maribel, Edad: 76, Fecha: 2026-06-13 12:47:07.643877, Fecha: 2026-06-13 12:47:07.643877
+Registro exitoso - Nombre: maribel, Edad: 76, Fecha: 2026-06-13 12:47:07.643877, Fecha: 2026-06-13 12:47:07.643877
+Busqueda de usuario 'erika' realizada, Resultado: Encontrado, Fecha: 2026-06-13 12:47:07.643877, Fecha: 2026-06-13 12:47:07.643877
+Eliminar usuario - Usuario 'martah' no encontrado, Fecha: 2026-06-13 12:57:24.949446, Fecha: 2026-06-13 12:57:24.949446
+Eliminar usuario - Usuario 'martah' no encontrado, Fecha: 2026-06-13 12:57:24.949446, Fecha: 2026-06-13 12:57:24.949446
+Eliminar usuario - Usuario 'martah' no encontrado, Fecha: 2026-06-13 13:02:26.989498, Fecha: 2026-06-13 13:02:26.989498
+Usuario 'martah' eliminado exitosamente, Fecha: 2026-06-13 13:03:45.268674, Fecha: 2026-06-13 13:03:45.268674

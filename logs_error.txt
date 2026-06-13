@@ -1,0 +1,9 @@
+Evitar duplicados - Formato de línea inválido: martah, Fecha: 2026-06-13 12:42:44.341515, Fecha: 2026-06-13 12:42:44.341515
+Mostrar usuarios fallido - Error inesperado: too many values to unpack (expected 2, got 3), Fecha: 2026-06-13 12:44:58.389777, Fecha: 2026-06-13 12:44:58.389777
+Evitar duplicados - Formato de línea inválido: martah, Fecha: 2026-06-13 12:47:07.643877, Fecha: 2026-06-13 12:47:07.643877
+Estadísticas de usuarios - Formato de línea inválido: martah, Fecha: 2026-06-13 12:55:15.812729, Fecha: 2026-06-13 12:55:15.812729
+Eliminar usuario fallido - Formato de línea inválido: martah, Fecha: 2026-06-13 12:57:24.949446, Fecha: 2026-06-13 12:57:24.949446
+Eliminar usuario fallido - Formato de línea inválido: martah, Fecha: 2026-06-13 12:57:24.949446, Fecha: 2026-06-13 12:57:24.949446
+Eliminar usuario fallido - Formato de línea inválido: martah, Fecha: 2026-06-13 13:02:26.989498, Fecha: 2026-06-13 13:02:26.989498
+Mostrar usuarios inválidos - Formato de línea inválido: asd, Fecha: 2026-06-13 13:05:38.292515, Fecha: 2026-06-13 13:05:38.292515
+Mostrar usuarios inválidos - Formato de línea inválido: das,das,1daw,12312,123, Fecha: 2026-06-13 13:05:38.292515, Fecha: 2026-06-13 13:05:38.292515
