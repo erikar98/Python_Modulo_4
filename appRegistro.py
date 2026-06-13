@@ -251,7 +251,7 @@ def evitar_duplicados(nombre):
 def menu():
     opcion = ""
     
-    while opcion != "6":
+    while opcion != "7":
         print("\n ==== USUARIOS ====")
         print("1. Registrar usuario")
         print("2. Mostrar usuarios")

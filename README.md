@@ -48,7 +48,8 @@ Al ejecutar la aplicación se muestra el siguiente menú:
 3. Buscar usuario por nombre
 4. Estadísticas de usuarios (cantidad y edad promedio)
 5. Eliminar usuario por nombre
-6. Salir
+6. Mostrar usuarios con formato inválido
+7. Salir
 ```
 
 ---
@@ -83,7 +84,11 @@ Solicita un nombre y elimina el registro correspondiente del archivo.
 - Si el nombre no existe, informa que no fue encontrado.
 - Las líneas con formato inválido que **no coincidan** con el nombre a eliminar se conservan en el archivo.
 
-### 6. Salir
+### 6. Mostrar usuarios con formato inválido
+Lista únicamente las líneas del archivo `usuarios.txt` que no cumplan el formato esperado (`nombre,edad,fecha`).
+Útil para identificar registros corruptos o ingresados manualmente de forma incorrecta antes de eliminarlos.
+
+### 7. Salir
 Finaliza el programa.
 
 ---
